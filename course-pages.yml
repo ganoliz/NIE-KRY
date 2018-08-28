@@ -1,0 +1,13 @@
+course:
+  code: BI-NEW
+  name: Šablona předmětu
+language: cs
+repository:
+  gitlabPath: /course-pages/course-starter
+navigation:
+  hiddenFiles:
+    - files/
+    - media/
+    - README.*
+excludedFiles:
+  - /public

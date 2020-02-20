@@ -1,0 +1,5 @@
+= Novinky
+
+TIP: Tady můžete psát novinky pro studenty, které se zobrazí mj. na rozcestníku https://courses.fit.cvut.cz.
+Každá novinka je definovaná jako sekce první úrovně (tj. `== Titulek novinky`).
+Více informací najdete https://gitlab.fit.cvut.cz/course-pages/course-pages/blob/master/man/NEWS.adoc.5.adoc[zde].

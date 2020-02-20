@@ -1,0 +1,4 @@
+= Cvičení
+:toc:
+
+TIP: Zde umístěte podklady pro cvičení; obdobným způsobem jako v sekci xref:../lectures/index.adoc[]. Pokud tento předmět nemá cvičení, tak celý adresář _tutorials_ odstraňte.

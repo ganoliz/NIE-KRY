@@ -1,0 +1,29 @@
+= Hodnocení
+:toc:
+
+TIP: Zde uveďte jaký systém používáte ke klasifikaci studentů (např. https://grades.fit.cvut.cz[Grades/Klasifikace]).
+
+
+== Zápočet
+
+TIP: Zde doplňte podmínky pro získání zápočtu.
+
+
+== Zkouška
+
+TIP: Zde doplňte podmínky pro složení zkoušky.
+
+Převod standardní bodovací stupnice na známky je popsán následující tabulkou.
+
+|====
+| Známka | Bodové rozmezí | Slovní hodnocení
+
+| A      | 90 a více      | výborně
+| B      | 80-89          | velmi dobře
+| C      | 70-79          | dobře
+| D      | 60-69          | uspokojivě
+| E      | 50-59          | dostatečně
+| F      | méně než 50    | nedostatečně
+|====
+
+Hodnocení se řídí https://www.cvut.cz/sites/default/files/content/7e72349e-3ea5-4693-9853-5147f1238481/cs/20180718-studijni-a-zkusebni-rad-pro-studenty-cvut.pdf[Studijním a zkušebním řádem ČVUT].

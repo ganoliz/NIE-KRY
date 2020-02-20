@@ -1,3 +1,10 @@
-= BI-AEC
+= Úvodní stránka
 
-Lorem ipsum...
+TIP: Zde napište něco o předmětu a/nebo sem zkopírujte jeho anotaci z KOSu.
+
+IMPORTANT: Toto je šablona, která obsahuje jen pár základních stránek s nápovědami, kde by co mělo být.
+Jde pouze o doporučení, kterého se můžete držet, ale nemusíte.
+*Jako první krok všechny tyto nápovědné texty a nehodící se stránky smažte!*
+
+TIP: Návod ke Course Pages najdete na https://help.fit.cvut.cz/courses/[help.fit.cvut.cz].
+Dokumentaci k syntaxi AsciiDoc, ve které jsou psány tyto stránky, najdete na https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[docs.asciidoctor.org].

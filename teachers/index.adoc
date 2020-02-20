@@ -1,0 +1,8 @@
+= Učitelé
+
+TIP: Zde uveďte stručný seznam učitelů. Každý si také může vytvořit svou stránku či sadu stránek, např. s informacemi o konzultačních hodinách.
+
+|====
+| Učitel č. 1  | přednášející | email1@fit.cvut.cz | xref:novakjan.adoc[doplňující informace]
+| Učitel č. 2  | cvičící      | email2@fit.cvut.cz | xref:doejohn.adoc[doplňující informace]
+|====

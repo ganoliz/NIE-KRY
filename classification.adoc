@@ -26,4 +26,4 @@ Převod standardní bodovací stupnice na známky je popsán následující tabu
 | F      | méně než 50    | nedostatečně
 |====
 
-Hodnocení se řídí https://www.cvut.cz/sites/default/files/content/7e72349e-3ea5-4693-9853-5147f1238481/cs/20180718-studijni-a-zkusebni-rad-pro-studenty-cvut.pdf[Studijním a zkušebním řádem ČVUT].
+Hodnocení se řídí Studijním a zkušebním řádem ČVUT, který najdete na stránce s https://www.cvut.cz/vnitrni-predpisy#szr[vnitřními předpisy ČVUT].

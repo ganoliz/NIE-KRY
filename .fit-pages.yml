@@ -1,0 +1,19 @@
+# See https://help.fit.cvut.cz/pages-fit/config/fit-pages.yml.html for
+# available options.
+
+domain: courses.fit.cvut.cz
+
+# Allow any authenticated user to access all branches and paths.
+access:
+  # The main branch.
+  master:
+    /:
+      allow: [AUTHENTICATED]
+  # Semester branches.
+  B[0-9]*:
+    /:
+      allow: [AUTHENTICATED]
+  # Any other branches.
+  '*':
+    /:
+      allow: [AUTHENTICATED]

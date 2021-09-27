@@ -1,9 +1,9 @@
 course:
-  code: BI-NEW
-  name: Šablona předmětu
+  code: NI-KRY
+  name: Pokročilá kryptologie
 language: cs
 repository:
-  gitlabPath: /course-pages/course-starter
+  gitlabPath: /NI-KRY/ni-kry
 navigation:
   hiddenFiles:
     - files/

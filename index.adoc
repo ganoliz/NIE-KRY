@@ -1,6 +1,8 @@
 = Úvodní stránka
 
-TIP: Zde napište něco o předmětu a/nebo sem zkopírujte jeho anotaci z KOSu.
+Studenti se seznámí se základy kryptoanalýzy a matematickými principy tvorby vybraných šifer symetrické a asymetrické kryptografie a hešovacích funkcí.
+Dále získají znalosti o matematických principech tvorby náhodných čísel.
+Získají přehled o útocích postranními kanály, o formátování a doplnění zpráv, o kryptografii na eliptických křivkách a o postkvantové kryptografii.
 
 IMPORTANT: Toto je šablona, která obsahuje jen pár základních stránek s nápovědami, kde by co mělo být.
 Jde pouze o doporučení, kterého se můžete držet, ale nemusíte.

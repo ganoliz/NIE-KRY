@@ -1,15 +1,69 @@
 = Přednášky
 :toc:
 
-[%header, cols="10h,70"]
+[%header, cols="10h,40, 40"]
 |====
 | #
-| Téma
+| Téma přednášky
+| Další materiály
 
 | 1.
-| link:files/prednaska1.pdf[Úvod, náhodná čísla a náhodné generátory]
+| **link:files/prednaska1.pdf[Úvod, náhodná čísla a náhodné generátory]**
+|
 
 | 2.
-| link:files/prednaska2.pdf[Symetrická kryptografie, blokové šifry]
+| **link:files/prednaska2.pdf[Symetrická kryptografie, blokové šifry]**
+|
+
+| 3.
+| **link:files/prednaska3_cista.pdf[Asymetrická kryptografie]**
+//_
+| link:files/rsa-padding.pdf[Padding RSA],
+link:files/dl-problem.pdf[Problém diskrétního logaritmu] 
+
+| 4.
+| **link:files/prednaska4.pdf[Lineární kryptoanalýza]**,
+|link:files/ldc_tutorial.pdf[Linear and Differential Cryptanalysis Tutorial]
+//_
+
+| 5.
+| **link:files/prednaska5.pdf[Diferenciální kryptoanalýza]**
+|
+
+| 6.
+| **link:files/ac.pdf[Algebraická kryptoanalýza]**
+| link:files/spnp.pdf[Algebraická kryptoanalýza SPN],
+link:files/groebner.pdf[Gröbnerovy báze]
+
+| 7.
+| **link:files/prednaska9.pdf[Formátování a doplnění zpráv]**
+|
+
+| 8.
+| **link:files/prednaska10.pdf[ECC]**
+|
+
+| 9.
+| **link:files/prezentace_Myslivec_Vojtech_2016.pdf[McEliece]**
+//_
+|
+
+| 10a.
+| **link:files/side_en.pdf[Útoky postranními kanály]**
+//_
+|
+
+| 10b.
+| **link:files/meet-itm.pdf[Útoky Meet-in-the-middle]**
+|
+
+| 11.
+| **link:files/prednaska14.pdf[Multivariační kryptografie]**,
+| link:files/ov-example.pdf[Příklad Oil and Vinegar]
+
+| 12.
+| **link:files/prednaska12_new.pdf[Kvantová kryptografie]** (žlutě zvýrazněno), +
+**link:files/prednaska12_new2.pdf[Kvantová kryptografie 2]** (žlutě zvýrazněno)
+|
 |====
 

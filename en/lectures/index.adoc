@@ -1,0 +1,69 @@
+= Lectures
+:toc:
+
+[%header, cols="10h,40, 40"]
+|====
+| #
+| Lecture Topic
+| Supplementary materials
+
+| 1.
+| **link:files/lecture1.pdf[Random Number Generators]**
+|
+
+| 2.
+| **link:files/prednaska2en.pdf[Symmetric Cryptography]**
+|
+
+| 3.
+| **link:files/prednaska3en.pdf[Asymmetric Cryptography]**
+|
+
+| 4.
+| **link:files/prednaska4.pdf[Linear Cryptanalysis]**,
+|link:../../lectures/files/ldc_tutorial.pdf[Linear and Differential Cryptanalysis Tutorial]
+
+| 5.
+| **link:files/prednaska5_en.pdf[Differential Cryptanalysis]**
+//_
+|
+
+| 6.
+| **link:files/acen.pdf[Algebraic Cryptanalysis]**
+| 
+// link:files/spnp.pdf[Algebraická kryptoanalýza SPN],
+// link:files/groebner.pdf[Gröbnerovy báze]
+
+| 7.
+| **link:files/side_en.pdf[Side channel attacks]**
+//_
+|
+
+| 8.
+| **link:files/meet-itm.pdf[Meet-in-the-middle attack vs. Brute-force attack]**
+|
+
+| 9.
+| **link:files/padding_en_v2.pdf[Padding]**
+|
+
+| 10.
+| **link:files/bez08en.pdf[Intruduction to elliptic curve cryptography and quantum cryptography]**
+|
+
+| 11.
+| **link:files/prezentace_Myslivec_Vojtech_2016_en.pdf[McEliece]**
+//_
+|
+
+// | 11.
+// | **link:files/prednaska14.pdf[Multivariační kryptografie]**,
+// | link:files/ov-example.pdf[Příklad Oil and Vinegar]
+
+| 12.
+a|
+*  **link:files/prednaska13.pdf[Quantum cryptography]**,
+*  **link:files/Shor.pdf[Shor's algorithm]**
+|
+|====
+

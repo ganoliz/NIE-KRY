@@ -48,13 +48,10 @@ link:files/groebner.pdf[Gröbnerovy báze]
 //_
 |
 
-| 10a.
-| **link:files/side_en.pdf[Útoky postranními kanály]**
+| 10.
+| **link:files/side_en.pdf[Útoky postranními kanály]**, +
 //_
-|
-
-| 10b.
-| **link:files/meet-itm.pdf[Útoky Meet-in-the-middle]**
+**link:files/meet-itm.pdf[Útoky Meet-in-the-middle]**
 |
 
 | 11.

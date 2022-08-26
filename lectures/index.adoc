@@ -1,19 +1,15 @@
 = Přednášky
 :toc:
 
-[%header, cols="10h,20,70"]
+[%header, cols="10h,70"]
 |====
 | #
-| Datum
 | Téma
 
 | 1.
-| 18. 2. 2020
-| xref:1-lorem-ipsum.adoc[Téma první přednášky]
+| link:files/prednaska1.pdf[Úvod, náhodná čísla a náhodné generátory]
 
 | 2.
-| 25. 2. 2020
-| link:files/2-dolor-sit-amet.pdf[Téma druhé přednášky] (PDF)
+| link:files/prednaska2.pdf[Symetrická kryptografie, blokové šifry]
 |====
 
-TIP: Přednášky mohou být i ve formě PDF prezentací. Pokud PDF soubory umístíte přímo do adresáře _lectures_ (namísto _files_), zobrazí se v navigaci (stejně jako samostatné stránky).

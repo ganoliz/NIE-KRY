@@ -1,19 +1,29 @@
 = Hodnocení
 :toc:
 
-TIP: Zde uveďte jaký systém používáte ke klasifikaci studentů (např. https://grades.fit.cvut.cz[Grades/Klasifikace]).
+== Pravidla zkoušení v ZS 2021/2022
+Zkouška z předmětu NI-KRY bude mít následovní obsah:
 
+* Zkouška se bude se skládat z 3 otázek, které budou kladeny studentovi postupně.
+* Student dostane otázku, na kterou bude mít cca 5 minut na přípravu, a následně bude student odpovídat na udělenou otázku a doplňující dotazy zkoušejícího.
+* Pak bude zkoušejícím udělena známka, a to tak, že za každou otázku může získat student maximálně 20 bodů, tj. celkově maximálně 60 bodů. Body z cvičení budou tvořit 40% známky, tzn. že student si může z cvičení „přinést“ maximálně 40 bodů.
 
-== Zápočet
+Zkouška je tedy ústní kontaktní s přípravou:
 
-TIP: Zde doplňte podmínky pro získání zápočtu.
+. Zkoušený bude přítomen společně v místnosti se zkoušejícím u vyhrazeného místa u stolu. 
+. Po zadání otázky bude student mít cca 5 minut na písemnou přípravu, a pak bude bezprostředně tázán.
+. Zkouška bude ukončena hodnocením.
 
+== Hodnocení cvičení, zápočet
+Můžete získat až 
 
-== Zkouška
+* 30 bodů za aktivitu a řešení úloh a 
+* 10 bodů z testu. 
 
-TIP: Zde doplňte podmínky pro složení zkoušky.
+Pro získání zápočtu potřebujete **minimálně 21 bodů**. Zápočet je podmínkou pro účast na zkoušce.
 
-Převod standardní bodovací stupnice na známky je popsán následující tabulkou.
+== Zkouška, celkové hodnocení
+
 
 |====
 | Známka | Bodové rozmezí | Slovní hodnocení

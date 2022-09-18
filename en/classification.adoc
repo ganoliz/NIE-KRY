@@ -1,0 +1,42 @@
+= Course requirements
+:toc:
+
+== Classification and the final exam in the winter semester 2022/2023
+
+
+The NIE-KRY/MIE-KRY.16 exam will have the following content:
+
+* The exam will consist of 3 questions, which will be asked to the student gradually.
+* The student will receive a question for which he will have about 5 minutes to prepare, and then the student will answer the question and additional questions from the examiner.
+* The examiner will then award a grade so that the student can obtain a maximum of 20 points for each question, i.e. a maximum of 60 points in total. Semester points will make up 40% of the mark, i.e.. that the student can "bring" a maximum of 40 points from the semester.
+* The exam is therefore oral with preparation and will be in person (contact form):
+
+The student will be present together in the room with the examiner at a specified place at the table.
+After receiving the question, the student will have about 5 minutes for written preparation, and then will be immediately asked.
+
+The exam will end with an evaluation.
+
+
+== Seminars and Assessment
+You can get up to
+
+* 30 points for activity and task solving, and up to
+* 10 points from the test.
+
+
+For assessment you need at **least 21 points**.
+
+
+== Final exam, grading
+
+
+|====
+| Grade | Point interval | Evaluation
+
+| A      | 90 a více      | Excellent
+| B      | 80-89          | Very Good
+| C      | 70-79          | Good
+| D      | 60-69          | Satisfactory
+| E      | 50-59          | Sufficient
+| F      | méně než 50    | Failed
+|====

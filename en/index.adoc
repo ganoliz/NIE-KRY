@@ -1,2 +1,4 @@
 = English version: NIE-KRY
 
+Students will learn the essentials of cryptanalysis and the mathematical principles of constructing symmetric and asymmetric ciphers. They will know the mathematical principles of random number generators. They will have an overview of cryptanalysis methods, elliptic curve cryptography and quantum cryptography, which they can apply to the integration of their own systems or to the creation of their own software solutions.
+

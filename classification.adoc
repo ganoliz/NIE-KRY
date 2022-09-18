@@ -1,7 +1,8 @@
 = Hodnocení
 :toc:
 
-== Pravidla zkoušení v ZS 2021/2022
+== Pravidla zkoušení v ZS 2022/2023 
+
 Zkouška z předmětu NI-KRY bude mít následovní obsah:
 
 * Zkouška se bude se skládat z 3 otázek, které budou kladeny studentovi postupně.

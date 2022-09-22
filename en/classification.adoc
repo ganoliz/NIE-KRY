@@ -33,10 +33,10 @@ For assessment you need at **least 21 points**.
 |====
 | Grade | Point interval | Evaluation
 
-| A      | 90 a více      | Excellent
+| A      | 90 or more     | Excellent
 | B      | 80-89          | Very Good
 | C      | 70-79          | Good
 | D      | 60-69          | Satisfactory
 | E      | 50-59          | Sufficient
-| F      | méně než 50    | Failed
+| F      | less than 50   | Failed
 |====

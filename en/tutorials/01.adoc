@@ -51,6 +51,9 @@ Links:
 * Original NIST NIST SP 800-22 Statistical Test Suite http://csrc.nist.gov/groups/ST/toolkit/rng/documentation_software.html
 * Recommended for better scripting support: One of the improved versions of the NIST STS, on Github https://github.com/arcetri/sts
 * helper program to separate a selected bit: link:files/extract.c[]
+* Submit via GitLab, create folder named **TRNG** in:
+** https://gitlab.fit.cvut.cz/NI-KRY/B221/en / your username (English group)
+** https://gitlab.fit.cvut.cz/NI-KRY/B221/cz / your username (Czech group)
 
 
 == Voluntary homework for 8 points (to the end of the semester) -- Bug in Debian 2006 – 2008

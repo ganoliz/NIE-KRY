@@ -29,11 +29,11 @@ You should get SBOX( {73} ) ==  {8f}.
 
 == Computing in field extensions
 
-Supplementary material: file:files/gf222.pdf
+Supplementary material: file:files/gf222.pdf[]
 
 Direct inverse in extension fields by Morii, Kasahara: (see for example Christof Paar: Inversion in Finite Fields and Rings, Encyclopedia of Cryptography and Security, pp 631-632) http://link.springer.com/referenceworkentry/10.1007%2F978-1-4419-5906-5_33
 
-image:morii.png
+image:files/morii.png[]
 
 Ex:
 

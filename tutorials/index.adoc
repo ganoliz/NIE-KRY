@@ -1,4 +1,3 @@
 = Cvičení
-:toc:
 
-Zde budou cvičení
+xref:../en/tutorials/index.adoc[Cvičení jsou v anglické verzi]

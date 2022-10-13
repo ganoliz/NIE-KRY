@@ -3,4 +3,6 @@
 |===
 | xref:01.adoc[]
 | xref:02.adoc[]
+| xref:02.adoc[]
+| xref:03.adoc[]
 |===

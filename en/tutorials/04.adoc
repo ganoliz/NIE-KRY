@@ -1,0 +1,23 @@
+= 04. Linear and Differential Cryptanalysis - Seminar
+
+See link:../../lectures/files/ldc_tutorial.pdf[Tutorial on Linear and Differential Cryptanalysis] by H. M. Heys
+
+== Linear Cryptanalysis
+
+See link:../lectures/files/prednaska4.pdf[Lecture on Linear Cryptanalysis]
+
+Recall the basic terms and equations for linear cryptanalysis, including the Linear Probability Bias, Piling-up Lemma, etc.
+
+We will be using the SPN cipher as described in the lectures and the tutorial linked above.
+
+Verify the correctness of tables on page 10 of the tutorial. Explain the numbers in the table on page 11. Examine the linear approximation example.
+
+*Task*: Create your own linear approximation of the cipher so that you can break 8 bits of the last round's subkey. Your approximation must be different from the example. *Note*: The result of this task together with the differential cryptanalysis including simulation will be part of a graded homework. 
+
+== Differential Cryptanalysis
+
+See link:../lectures/files/prednaska5_en.pdf[Lecture on Differential Cryptanalysis]
+
+TBD.
+
+*Task*: Create your own differential approximation of the cipher so that you can break 8 bits of the last round's subkey. Your approximation must be different from the example. *Note*: The result of this task together with the linear cryptanalysis including simulation will be part of a graded homework. 

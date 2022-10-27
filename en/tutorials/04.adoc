@@ -18,6 +18,7 @@ Verify the correctness of tables on page 10 of the tutorial. Explain the numbers
 
 See link:../lectures/files/prednaska5_en.pdf[Lecture on Differential Cryptanalysis]
 
-TBD.
+Recall the basic terms and equations for differential cryptanalysis, including the input and output difference, differential, etc.
 
 *Task*: Create your own differential approximation of the cipher so that you can break 8 bits of the last round's subkey. Your approximation must be different from the example. *Note*: The result of this task together with the linear cryptanalysis including simulation will be part of a graded homework. 
+

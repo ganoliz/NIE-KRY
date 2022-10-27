@@ -1,4 +1,4 @@
-= 05. Linear and differential cryptanalysis -- simulation
+= 05. Linear and differential cryptanalysis - Simulation
 
 Download and unpack the link:files/ni-kry-cipher.zip[ZIP archive with Python implementation] of the SPN, linear and differential cryptanalysis attacks.
 

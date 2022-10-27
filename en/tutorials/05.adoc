@@ -1,0 +1,26 @@
+= 05. Linear and differential cryptanalysis -- simulation
+
+Download and unpack the link:files/ni-kry-cipher.zip[ZIP archive with Python implementation] of the SPN, linear and differential cryptanalysis attacks.
+
+Read the README file. Explore the scripts available in the archive, generate some plaintexts, try encryption and decryption. Try the linear and differential cryptanalysis with the default values.
+
+*Task:* 
+
+* Use your own linear approximation from the xref:04.adoc[previous seminar] to attack the cipher. Note how successful the attack was.
+* Use your own differential characteristic of the cipher to attack the cipher. As before, note the success.
+
+*Submit*: To your repository, in the folder named `LDC`, submit the following:
+
+* *Linear* cryptanalysis:
+** Diagram of your linear approximation (a nice sharp photo with a smartphone is OK)
+** For each active SBOX, the input and output sums, and the bias
+** Overall bias including the formula, expression with numbers/fractions, and the result in fraction and decimal
+** Resulting P and U4 masks
+** Results from simulation: How many PT/CT were used, what was the position of the correct key in the resulting table (best case, the correct key would be on the top)
+
+* *Differential* cryptanalysis:
+** Diagram of your differential characteristic (a nice sharp photo with a smartphone is OK)
+** For each active SBOX, the input and output differences, and the probability
+** Overall probability including the formula, expression with numbers/fractions, and the result in fraction and decimal
+** Resulting deltaP and deltaU4 masks
+** Results from simulation: How many PT/CT were used, what was the position of the correct key in the resulting table (best case, the correct key would be on the top)

@@ -1,0 +1,15 @@
+= 06. Algebraic cryptanalysis
+
+== LFSR with a nonlinear filter function
+
+image:files/lfsr1101.svg[width=400]
+
+stem:[f(x_3, x_2, x_1, x_0) := x_0 + x_0 x_2 + x_2 x_3]
+
+Output: 1 0 1 1
+
+Determine starting stem:[(x_3, x_2, x_1, x_0)].
+
+== Algebraic representation of a SPN SBOX
+
+Write the algebraic (multivariate polynomial over GF(2)) represenation of the SBOX from the previous classes.

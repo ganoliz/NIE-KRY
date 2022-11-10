@@ -1,8 +1,9 @@
 = 06. Algebraic cryptanalysis
+:stem: latexmath
 
 == LFSR with a nonlinear filter function
 
-image:files/lfsr1101.svg[width=400]
+image:files/lfsr1101.svg[width=300]
 
 stem:[f(x_3, x_2, x_1, x_0) := x_0 + x_0 x_2 + x_2 x_3]
 

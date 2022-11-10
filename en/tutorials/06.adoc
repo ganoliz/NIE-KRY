@@ -15,4 +15,4 @@ Determine starting stem:[(x_3, x_2, x_1, x_0)].
 
 Write the algebraic (multivariate polynomial over GF(2)) represenation of the SBOX from the previous classes.
 
-link:files/spn.nb[]
+link:files/spn_en.nb[]

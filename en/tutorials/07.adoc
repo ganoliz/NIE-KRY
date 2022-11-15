@@ -1,0 +1,31 @@
+= 07. Padding Oracle Attack
+
+Recap the CBC mode for encryption and decryption.
+Assume a malicious client that can capture and manipulate with the messages sent from genuine clients to a server.
+
+== Attack task
+
+Author: Josef Kokeš
+
+The webpage at `http://kib4.fit.cvut.cz/kry/padding/paddingoracle1.php` accepts encrypted commands. Discover the secret message that was sent in the URL in the msg parameter. **3 points**
+
+Captured communication with the server: A user was connecting to
+
+----
+http://kib4.fit.cvut.cz/kry/padding/paddingoracle1.php?msg=46372b591f8ac5b77ead130e6e70663864976c7d2bb5d00459eb88ed74b00b7674c94624673cf0d682d329e98feedfc86b4cb2e66e8566667769d776e0cefa56ebbe827ebb417ce2f33ec100e63b98aba72b6f40e67a53df2b959048c7c1250feeda602252bbd4afd706567d48fea15e4d3d17af1f90f233b21e92917bd20f33
+----
+
+and received the response (200), that the command was accepted. From secret sources we got the information that the server is written poorly and serves as a apdding oracle, which returns different error messages; for decryption and padding errors it returns 400 Bad Request, while for invalid but successfully decrytped commands it returns 404 Invalid Command. Your task is to discover the command the user sent. Encryption is done using AES in CBC mode, padding is according to PKCS7.
+
+NB. If your program dislikes the error codes returned (like Mathematica), use this modified url: `... bucekj/kry/padding2/paddingoracle1.php`
+
+=== Attack on padding II
+
+Different servce, different parameters. Discover the secret message. **2 points**
+
+Captured URL is:
+
+----
+http://kib4.fit.cvut.cz/kry/padding/paddingoracle2.php?msg=c6decc82433e66c31c4b11eb3f45b74514579c9eb7c22717b66f7357aca6aa78d491d73d7d5fc437c18e4b84afe0fbf5495723e52481246112623f3a25381b8b2639ec765b5a5f0a73c79515e77a6d03dd7d15594bd58c15efc4b979c6d6f56a64e4edc781f296fe7986411cc8857315b14d84cedefceafdf2a0065039a1903d03bb60b5fb159bf3
+----
+

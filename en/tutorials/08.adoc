@@ -1,0 +1,51 @@
+= DSA - selected attacks 
+
+== DSA - reusing NONCE
+
+A crypto module computing digital singatures with DSA was infected with a malicious program. It caused two signatures to be generated from two different messages using the same NONCE k. Compute the value of the private key, given the public parameters (p, q, g), public key y, messages m_1, m_2 and signatures (r_1, s_1) a (r_2, s_2), where the hash function is SHA-1 and:
+
+----
+p = 130858654869791629821164827405704486808484325400695017176436089171363\
+9531748031693417835553732150756141144659919008551532614921526336624387731\
+8837626297928210175339445497799357981685438383090052835120608934326510233\
+8373900869810884532342186375732537448146335182616800945419546009892443656\
+248994289078702932401
+
+q = 1145453138964420393547388172384121951637470359533
+
+g = 451047575992719352624485066163860120146619513640384831840335905989986\
+7868318147275934379724895322117241223218798069129765949195037342214140393\
+0338141698231706841971665582670350829595685041641877692018530060168714567\
+1663183149674197121039558937731700061263348789235742527428253111061838799\
+1431638379437562001
+
+m_1 = "IOU $1000"
+
+m_2 = "Merry Christmas"
+
+r_1 = r_2 = 916128381002192237330415624031916695461722389304
+
+s_1 = 1016140177410528212949844490506968808343879600370
+
+s_2 = 767135282992918681484216676594223285185365265436
+----
+
+Hint: Derive from equations for s_1 and s_2.
+
+*Homework for 2 points*
+
+
+== DSA - inner collisions
+
+
+Find two (meaningful*) messages m_1 and m_2, for which DSA public parameters (p, q, g) exist such that both messages have the same signature (r, s) regardless of the private key value. The signature of m_1 is thus at the same time a valid signature of m_2 and vice versa. Find the parameters (p, q, g) and show the collision of both signatures for a randomly chosen private key.
+
+* for start only m_1 needs to be meaningful (understandable in English, for example)
+
+Hint: Congruence of hashes of messages m_1 and m_2 modulo prime q. Vaudenay 1996.
+
+*Homework for 2 points* + *1 additional point* if both m_1 and m_2 are meaningful
+
+
+Task assignments provided by Tomáš Rosa, 2006.
+

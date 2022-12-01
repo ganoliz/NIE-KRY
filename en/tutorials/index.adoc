@@ -7,4 +7,8 @@
 | xref:03.adoc[]
 | xref:04.adoc[]
 | xref:05.adoc[]
+| xref:05.adoc[]
+| xref:06.adoc[]
+| xref:07.adoc[]
+| xref:08.adoc[]
 |===

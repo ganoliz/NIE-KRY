@@ -11,4 +11,6 @@
 | xref:06.adoc[]
 | xref:07.adoc[]
 | xref:08.adoc[]
+| xref:09.adoc[]
+| xref:10.adoc[]
 |===

@@ -12,5 +12,5 @@
 | xref:07.adoc[]
 | xref:08.adoc[]
 | xref:09.adoc[]
-| xref:10.adoc[]
+| 10. Finalizing tasks, assessment
 |===

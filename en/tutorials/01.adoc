@@ -31,6 +31,13 @@ Homework for *6 points* max: Estimate the quality of the TRNG that produced the 
 
 Use STS from NIST or a variant of it or another suitable testing method (if you can justify it).
 
+=== Evaluation
+
+For each bit position separately, evaluate the
+
+* Pass-Fail ratio (proportion) of individual tests
+* Uniformity of p-values of individual tests
+
 Result will be a *report* of your progress -- what tests you ran, with what parameters, summary of test results and your evaluation of individual bits, (ca 1-2 pages) and *test results* (relevant outputs from the test suite).
 
 * Points: 6
@@ -44,13 +51,6 @@ cd sts
 make
 ./sts -h
 ----
-
-
-== Evaluation
-For each bit position separately, evaluate the
-* Pass-Fail ratio (proportion) of individual tests
-* Uniformity of p-values of individual tests
-
 
 
 Links:

@@ -20,7 +20,7 @@ Hint: Extended Euclidean algorithm applied on e1 and e2.
 Note: In Mathematica, you can use for example ExtendedGCD, PowerMod, Mod
 
 == Fault attack on RSA-CRT, broadcast attack
-*Homework* for 4 points: (due date 26.10.2022)
+*Homework* for 4 points: (due date 30.10.2023)
 
 *Part 1*: When signing an (unknown) message using the RSASSA-PKCS1-v1_5 scheme (see PKCS#1), an error was introduced during the computation of the RSASP1 signing transformation (see PKCS#1). Chinese Remainder Theorem was used, the error affected only the partial signature value modulo p, ie. value called in PKCS#1 signature as s_1. The signer later discovered that the computed signature is invalid, and signed the same message again. This time all went without errors. Find the signer's private key, given the public modulus N, public exponent e, faulty signature value f, and correct signature value s, where:
 

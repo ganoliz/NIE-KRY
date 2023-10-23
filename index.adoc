@@ -1,4 +1,4 @@
-= Úvodní stránka
+= Pokročilá kryptologie - Advanced Cryptology
 
 TIP: xref:en/index.adoc[]
 

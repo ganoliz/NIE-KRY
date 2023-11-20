@@ -11,7 +11,7 @@ Your goal is to discover secret messages. (You will not discover the key.)
 
 Before executing the attack over the network, debug it on a (fake) offline server that can be run as a function from Python
 or from the command line. See
-file:files/fake_vulnerable_server.py[fake_vulnerable_server.py]. See inside, try running it, use it either as `import` in Python,
+link:files/fake_vulnerable_server.py[fake_vulnerable_server.py]. See inside, try running it, use it either as `import` in Python,
 or possibly as an external script, or modify it to suit your needs.
 
 == Attack the real server

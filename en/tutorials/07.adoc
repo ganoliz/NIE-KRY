@@ -3,7 +3,20 @@
 Recap the CBC mode for encryption and decryption.
 Assume a malicious client that can capture and manipulate with the messages sent from genuine clients to a server.
 
-== Attack task
+== Padding Oracle Attack Task
+
+Your goal is to discover secret messages. (You will not discover the key.)
+
+=== Debug your attack offline
+
+Before executing the attack over the network, debug it on a (fake) offline server that can be run as a function from Python
+or from the command line. See
+file:files/fake_vulnerable_server.py[fake_vulnerable_server.py]. See inside, try running it, use it either as `import` in Python,
+or possibly as an external script, or modify it to suit your needs.
+
+== Attack the real server
+
+IMPORTANT: Access to the server is only permited within the FIT network.
 
 Author: Josef Kokeš
 
@@ -20,6 +33,8 @@ and received the response (200), that the command was accepted. From secret sour
 NB. If your program dislikes the error codes returned (like Mathematica), use this modified url: `... bucekj/kry/padding2/paddingoracle1.php`
 
 === Attack on padding II
+
+Author: Josef Kokeš
 
 Different servce, different parameters. Discover the secret message. **2 points**
 

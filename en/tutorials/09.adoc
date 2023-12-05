@@ -1,6 +1,7 @@
 = 09. Timing attack on RSA with Montgomery Multiplication
 
-* Download the Mathematica notebook link:files/timing_attack_rsa_montgomery_part1_only_en.nb[]
+* Download the Mathematica notebook link:files/timing_attack_rsa_montgomery_part1_only_en.nb[] or
+ the Jupyter notebook link:files/timing_attack_rsa_montgomery_student.ipynb[]
 * Observe how the timing attack works on multiplication
 * Finish the second method attacking squaring
 

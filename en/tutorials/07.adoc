@@ -14,6 +14,12 @@ or from the command line. See
 link:files/fake_vulnerable_server.py[fake_vulnerable_server.py]. See inside, try running it, use it either as `import` in Python,
 or possibly as an external script, or modify it to suit your needs.
 
+Make sure the `pycryptodome` package is installed. Then, you can use e.g. Jupyter notebook to call the `decrypt_and_check` function:
+
+  !pip install pycryptodome
+  import fake_vulnerable_server as fs
+  fs.decrypt_and_check(fs.correct_ct)
+
 == Attack the real server
 
 IMPORTANT: Access to the server is only permited within the FIT network.
